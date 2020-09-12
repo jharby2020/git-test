@@ -4,14 +4,13 @@
   "description": "Coursera class project",
   "main": "index.html",
   "scripts": {
-    "test": "test"
+    "dev": "lite-server",
+    "start":"npm run lite",
+    "lite":"lite-server"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jharby2020/git-test.git"
-  },
-  "scripts": {
-    "dev": "lite-server"
   },
   "keywords": [
     "coursera"
