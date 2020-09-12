@@ -1,0 +1,28 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Coursera class project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jharby2020/git-test.git"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [
+    "coursera"
+  ],
+  "author": "John Harby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jharby2020/git-test/issues"
+  },
+  "homepage": "https://github.com/jharby2020/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
